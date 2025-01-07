@@ -5,7 +5,7 @@ const Data = [
     description:
       "An Airbnb clone built using MERN stack with user authentication and property listings",
     technologies: ["MongoDB", "Express", "React", "Node.js"],
-    link: "https://example.com/wanderlust",
+    link: "https://wanderlust-4m5g.onrender.com/listings",
     github: "https://github.com/HemanthR-21/wanderlust",
   },
   {
