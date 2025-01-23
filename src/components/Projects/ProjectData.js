@@ -14,7 +14,7 @@ const Data = [
     description:
       "A memory booster game designed to challenge players' ability to replicate sequences.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    link: "https://simon-says-fawn-two.vercel.app/",
+    link: "https://simon-says-virid-zeta.vercel.app/",
     github: "https://github.com/HemanthR-21/Simon-says",
   },
   {
